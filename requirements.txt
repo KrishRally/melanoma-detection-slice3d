@@ -1,0 +1,24 @@
+numpy
+pandas
+polars
+opencv-python
+scikit-learn
+imbalanced-learn
+lightgbm
+catboost
+xgboost
+optuna
+tqdm
+h5py
+Pillow
+torch
+torchvision
+timm
+albumentations
+joblib
+matplotlib
+seaborn
+
+# Optional / useful for imaging and ML workflows
+ipython
+jupyter
